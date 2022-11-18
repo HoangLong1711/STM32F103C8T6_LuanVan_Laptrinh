@@ -1,0 +1,10 @@
+08:59:32 **** Incremental Build of configuration Debug for project Keypad4x4_LCD1602 ****
+make -j8 all 
+arm-none-eabi-size   Keypad4x4_LCD1602.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6228	     20	   1620	   7868	   1ebc	Keypad4x4_LCD1602.elf
+Finished building: default.size.stdout
+ 
+
+08:59:32 Build Finished. 0 errors, 0 warnings. (took 323ms)
+

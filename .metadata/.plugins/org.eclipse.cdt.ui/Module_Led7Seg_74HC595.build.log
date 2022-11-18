@@ -1,4 +1,4 @@
-16:21:54 **** Incremental Build of configuration Debug for project Module_Led7Seg_74HC595 ****
+08:59:33 **** Incremental Build of configuration Debug for project Module_Led7Seg_74HC595 ****
 make -j8 all 
 arm-none-eabi-size   Module_Led7Seg_74HC595.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   Module_Led7Seg_74HC595.elf
 Finished building: default.size.stdout
  
 
-16:21:54 Build Finished. 0 errors, 0 warnings. (took 157ms)
+08:59:33 Build Finished. 0 errors, 0 warnings. (took 236ms)
 

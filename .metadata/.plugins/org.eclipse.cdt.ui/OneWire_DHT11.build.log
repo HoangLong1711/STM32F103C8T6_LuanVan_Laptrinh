@@ -1,4 +1,4 @@
-09:00:07 **** Incremental Build of configuration Debug for project OneWire_DHT11 ****
+09:37:59 **** Build of configuration Debug for project OneWire_DHT11 ****
 make -j8 all 
 arm-none-eabi-size   OneWire_DHT11.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   OneWire_DHT11.elf
 Finished building: default.size.stdout
  
 
-09:00:07 Build Finished. 0 errors, 0 warnings. (took 220ms)
+09:38:00 Build Finished. 0 errors, 0 warnings. (took 410ms)
 

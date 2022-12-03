@@ -1,10 +1,10 @@
-09:38:00 **** Build of configuration Debug for project SPI_RFID ****
+19:50:23 **** Incremental Build of configuration Debug for project SPI_RFID ****
 make -j8 all 
 arm-none-eabi-size   SPI_RFID.elf 
    text	   data	    bss	    dec	    hex	filename
-  31948	    496	   1808	  34252	   85cc	SPI_RFID.elf
+  32116	    496	   1808	  34420	   8674	SPI_RFID.elf
 Finished building: default.size.stdout
  
 
-09:38:01 Build Finished. 0 errors, 0 warnings. (took 463ms)
+19:50:23 Build Finished. 0 errors, 0 warnings. (took 166ms)
 

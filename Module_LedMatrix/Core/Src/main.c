@@ -93,8 +93,8 @@ int rowsData[][8] = {
 		};
 int colsSelect[8] = {0x80, 0x40, 0x20, 0x10, 0x08, 0x04, 0x02, 0x01};
 
-//char charPrint[]="TRUONG BACH KHOA BO MON DIEN TU VIEN THONG NGANH KY THUAT MAY TINH";
-char charPrint[]="CTU";
+char charPrint[]="TRUONG BACH KHOA  KHOA DIEN TU VIEN THONG";
+//char charPrint[]="CTU";
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
